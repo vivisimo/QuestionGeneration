@@ -1,2 +1,12 @@
-This repository contains code and models for replicating results from the following publication:
+This repository contains datasets and code used in the following publication:
 "Capturing Greater Context for Question Generation"
+
+Datasets:
+
+- SQuAD split 1: https://drive.google.com/open?id=1Qswq90Ju3kpgbp3syKjT3WjDqLXrm6am
+
+- SQuAD split 2: https://drive.google.com/open?id=1tmptmfzrpTrqPR6QeFaPYvHQipwwl0Gs
+
+- MS MARCO: https://drive.google.com/open?id=1ogm8hEHLG-PBtjxaUGKcOvd2AZtBwR0X
+
+- NewsQA: https://drive.google.com/open?id=1qjVF9q9VZXsVuKs5RSLlWNUYTyC51HuN

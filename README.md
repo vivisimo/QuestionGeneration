@@ -1,6 +1,6 @@
 This repository contains datasets and code used in the following paper:
 
-("Capturing Greater Context for Question Generation")[https://arxiv.org/abs/1910.10274]
+["Capturing Greater Context for Question Generation"](https://arxiv.org/abs/1910.10274)
 Luu Anh Tuan, Darsh J Shah, Regina Barzilay
 
 ### Datasets:

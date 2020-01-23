@@ -1,5 +1,6 @@
-This repository contains datasets and code used in the following publication:
+This repository contains datasets and code used in the following paper:
 "Capturing Greater Context for Question Generation"
+Luu Anh Tuan, Darsh J Shah, Regina Barzilay
 
 Datasets:
 
